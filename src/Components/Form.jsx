@@ -8,7 +8,7 @@ const Form = ({getAllMovies,updateInfo,setUpdateInfo, handleCloseForm}) => {
         name:'' ,
         genre:'',
         duration: '',
-        release_date :''
+        release_date:''
 
     }
     useEffect(() => {
