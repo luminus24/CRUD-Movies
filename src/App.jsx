@@ -1,7 +1,7 @@
 import axios from 'axios'
 import { useEffect, useState } from 'react'
 import './App.css'
-import CardMovies from './Components/cardMovies'
+import CardMovies from './Components/CardMovies'
 import Form from './Components/Form'
 
 function App() {
